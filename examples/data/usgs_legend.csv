@@ -1,0 +1,8 @@
+Field,Legend
+mag,"Magnitude"
+latitude,"Latitude"
+longitude,"Longitude"
+depth,"Depth (km)"
+time,"Time"
+place,"Location"
+Repi,"Distance (km)"

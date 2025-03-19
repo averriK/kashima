@@ -1,0 +1,8 @@
+Field,Legend
+mag,"Explosive Magnitude"
+latitude,"Lat"
+longitude,"Lon"
+time,"Date"
+place,"Blasting Location"
+Repi,"Distance (km)"
+any_extra,"Extra Info"
