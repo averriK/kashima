@@ -1,1 +1,1 @@
-# kashimaPy
+# kashima
