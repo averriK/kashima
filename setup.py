@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='kashimaPy',
-    version='1.0.6.1',
+    name='kashima',
+    version='1.0.0.1',
     author='Alejandro Verri Kozlowski',
     author_email='averri@fi.uba.ar',
-    description='A package for processing and mapping seismic data.',
+    description='Machine Learning Tools for Geosciences.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/averriK/kashimaPy',  # Replace with your repository URL
+    url='https://github.com/averriK/kashima',  # Replace with your repository URL
     packages=find_packages(),
     install_requires=[
         'pandas',
